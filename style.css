@@ -1,0 +1,13 @@
+body{
+    background-color: cyan;
+    color: palevioletred;
+    font-size: 60px;
+    text-align: left;
+}
+
+.learning{
+    background-color: red;
+    color: greenyellow;
+    text-align: center;
+    font-size: 30px;
+}
